@@ -1,0 +1,3 @@
+CoSENTLoss
+AnglELoss
+ContrastiveLoss
